@@ -1,0 +1,45 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SweetDeceit
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Joseph Guan Quan
+    family-names: Lim
+    orcid: 'https://orcid.org/0009-0007-3655-8064'
+    affiliation: Singapore Institute of Technology
+    email: 2200648@sit.singaporetech.edu.sg
+  - given-names: Wilson Wee Shyan
+    family-names: Lim
+    affiliation: Singapore Institute of Technology
+    email: 2200582@sit.singaporetech.edu.sg
+  - given-names: Isaac Leung
+    family-names: Soon
+    orcid: 'https://orcid.org/0009-0008-8624-4220'
+    affiliation: Singapore Institute of Technology
+    email: 2200578@sit.singaporetech.edu.sg
+  - given-names: Zhen Yu
+    family-names: Kwok
+    orcid: 'https://orcid.org/0009-0000-7676-0768'
+    affiliation: Singapore Institute of Technology
+    email: 2200973@sit.singaporetech.edu.sg
+  - given-names: Aloysus Leng Siang
+    family-names: Koh
+    orcid: 'https://orcid.org/0009-0006-4565-5045'
+    affiliation: Singapore Institute of Technology
+    email: 2200700@sit.singaporetech.edu.sg
+  - given-names: Weihan
+    family-names: Goh
+    orcid: 'https://orcid.org/0000-0003-0688-0574'
+    affiliation: Singapore Institute of Technology
+    email: Weihan.Goh@Singaporetech.edu.sg
+repository-code: 'https://github.com/Ins1ght32/SweetDeceit'
+abstract: >-
+  SweetDeceit is a second-layer anti-forensics framework
+  which utilizes honey token tripwires to deploy
+  anti-forensic payloads.
+license: GPL-3.0
