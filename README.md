@@ -36,7 +36,7 @@ The concept behind Sweet Deceit is to utilise a combination of existing "First L
 
 The combination of these 2 layers of anti-forensic measure will thereby allow for the filtering of forensic processes to areas whereby the Honey-Token traps can be most effective, while hopfully reducing the suspicion of devices that implement Sweet Deceit.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a0d18ec1-d899-4289-a3eb-930b0801d824" alt="Flow-Honey Token 2nd layer defense">
+  <img src="https://github.com/user-attachments/assets/920e5316-cf40-4d61-915f-e8272c4d339e" alt="Flow-Honey Token 2nd layer defense">
 </p>
 
 ## Folder Structure
